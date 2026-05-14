@@ -1,64 +1,15 @@
-<h1 align="center">Hi, I'm Robby Sulistiady</h1>
+# Hi, I'm Robby
 
-<p align="center">
-  Building legal-tech systems, AI workflow tools, and premium dashboard products.
+<p>
+  <a href="https://github.com/rsulistiady"><img src="https://img.shields.io/badge/GitHub-rsulistiady-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/rsulistiady/legal-command-center"><img src="https://img.shields.io/badge/Legal--Tech-Dashboard-2f81f7?style=flat" alt="Legal Tech"></a>
+  <a href="https://github.com/rsulistiady/stylecore-ai-style-library"><img src="https://img.shields.io/badge/AI%20Workflow-Tools-a855f7?style=flat" alt="AI Workflow"></a>
+  <img src="https://img.shields.io/badge/Indonesia-Product%20Builder-16a34a?style=flat" alt="Indonesia Product Builder">
 </p>
 
-<p align="center">
-  <a href="https://github.com/rsulistiady?tab=repositories">
-    <img alt="GitHub repositories" src="https://img.shields.io/badge/Public%20Repos-Portfolio-2f81f7?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/rsulistiady/legal-command-center">
-    <img alt="Legal Tech" src="https://img.shields.io/badge/Focus-Legal--Tech-34d399?style=for-the-badge">
-  </a>
-  <a href="https://github.com/rsulistiady/stylecore-ai-style-library">
-    <img alt="AI Tools" src="https://img.shields.io/badge/Focus-AI%20Workflow-f472b6?style=for-the-badge">
-  </a>
-</p>
+Indonesia. Building legal-tech systems, AI workflow tools, and premium dashboard products.
 
----
-
-## What I Build
-
-I design and build production-minded web applications with a focus on:
-
-- Legal-tech dashboards and document workflow systems
-- AI-assisted productivity and review tools
-- Premium internal dashboards and SaaS MVPs
-- Frontend architecture with React, Next.js, Vite, and TypeScript
-- Product scaffolds designed for future API and database integration
-
-My work emphasizes clear UX, modular architecture, practical data flow, and commercially credible product foundations.
-
-## Featured Projects
-
-| Project | What it does | Stack | Status |
-| --- | --- | --- | --- |
-| [legal-command-center](https://github.com/rsulistiady/legal-command-center) | Premium legal operations dashboard for matter tracking, document validation, workflows, analytics, and stakeholder-ready presentation views. | React, TypeScript, Vite, Tailwind CSS, Zustand, Framer Motion, Recharts | Published |
-| [stylecore-ai-style-library](https://github.com/rsulistiady/stylecore-ai-style-library) | AI style-library dashboard for visual aesthetics, creative controls, prompt composition, and reusable style systems. | React, Vite, Tailwind CSS, modular prompt utilities | Published |
-| eQro ePub Marketplace | Protected digital-book marketplace scaffold with entitlement checks, private asset delivery, and admin operations. | Next.js, TypeScript, Prisma, Tailwind CSS | Local hardening |
-
-## Product Direction
-
-I am organizing this GitHub profile around fewer, clearer repositories that show complete product thinking:
-
-- polished information architecture
-- documented validation status
-- screenshots and realistic workflows
-- security-conscious implementation notes
-- practical roadmap from MVP to production hardening
-
-## Build Philosophy
-
-| Principle | How I apply it |
-| --- | --- |
-| Product clarity first | Define the workflow, audience, and operational value before adding surface polish. |
-| Modular architecture | Separate UI, data, state, and domain logic so projects can grow cleanly. |
-| Real validation | Prefer runnable builds, browser checks, and explicit known limitations over demo-only claims. |
-| Security awareness | Treat auth, private assets, audit logs, dependency risk, and data boundaries as product requirements. |
-| Premium UX | Build dashboards that feel credible for real business users, not generic templates. |
-
-## Current Stack
+I design production-minded web applications with clear UX, modular architecture, practical data flow, and commercially credible product foundations.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb">
@@ -69,8 +20,42 @@ I am organizing this GitHub profile around fewer, clearer repositories that show
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white">
 </p>
 
+## Legal-Tech & AI Dashboard Systems
+
+Building structured, commercially credible product foundations for legal workflows, internal operations, and AI-assisted creative/productivity tools.
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| [legal-command-center](https://github.com/rsulistiady/legal-command-center) | Legal operations command center for matter tracking, document validation, workflow visibility, analytics, and stakeholder presentation views. | Public |
+| [stylecore-ai-style-library](https://github.com/rsulistiady/stylecore-ai-style-library) | AI style-library dashboard for visual style exploration, prompt composition, reusable style systems, and creative workflow tooling. | Public |
+| eQro ePub Marketplace | Protected digital-book marketplace scaffold with entitlement checks, private asset delivery, admin operations, and reader-shell hardening. | Local hardening |
+
+## Product Architecture Focus
+
+| Area | How I approach it |
+| --- | --- |
+| Dashboards | Clear information hierarchy, filters, status indicators, analytics, detail views, and professional responsive layouts. |
+| Legal-tech | Security-aware workflows, document state, auditability, validation steps, role boundaries, and operational clarity. |
+| AI tooling | Human-in-the-loop controls, reusable prompt/data structures, deterministic utilities, and transparent output states. |
+| MVP hardening | README quality, validation notes, known limitations, dependency review, and roadmap from scaffold to production. |
+
+## Current Repository Standard
+
+- One product direction per repository
+- Professional README and screenshots where useful
+- Clear validation status and known limitations
+- Conservative security notes for auth, private data, and dependencies
+- Modular frontend architecture ready for API/backend integration
+
+## Selected Stack
+
+| Layer | Tools |
+| --- | --- |
+| Frontend | React, Next.js, Vite, TypeScript |
+| Styling | Tailwind CSS, responsive dashboard systems |
+| State & UX | Zustand, Framer Motion, Recharts, modular component patterns |
+| Data & Backend Ready | Prisma, API-ready domain boundaries, validation-first flows |
+
 ---
 
-<p align="center">
-  Focused on legal-tech, AI workflow products, and commercially credible dashboard systems.
-</p>
+Focused on legal-tech, AI workflow products, and premium dashboard systems.
