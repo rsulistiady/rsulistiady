@@ -1,4 +1,4 @@
-# Rizky Sulistiady
+# Robby Sulistiady
 
 I design and build production-minded web applications with a focus on legal-tech systems, AI-assisted workflows, business dashboards, and internal productivity tools.
 
