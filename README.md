@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Indonesia-Product%20Builder-16a34a?style=flat" alt="Indonesia Product Builder">
 </p>
 
-Indonesia. Building legal-tech systems, AI workflow tools, and premium dashboard products.
+Indonesia. Building legal-tech systems, mobile finance tools, AI workflow tools, and premium dashboard products.
 
 I design production-minded web applications with clear UX, modular architecture, practical data flow, and commercially credible product foundations.
 
@@ -26,6 +26,7 @@ Building structured, commercially credible product foundations for legal workflo
 
 | Project | What it does | Status |
 | --- | --- | --- |
+| [dompetmax](https://github.com/rsulistiady/dompetmax) | Offline-first Android finance app for tracking income, expenses, recurring bills, and investment portfolios. | Public |
 | [legal-command-center](https://github.com/rsulistiady/legal-command-center) | Legal operations command center for matter tracking, document validation, workflow visibility, analytics, and stakeholder presentation views. | Public |
 | [stylecore-ai-style-library](https://github.com/rsulistiady/stylecore-ai-style-library) | AI style-library dashboard for visual style exploration, prompt composition, reusable style systems, and creative workflow tooling. | Public |
 | eQro ePub Marketplace | Protected digital-book marketplace scaffold with entitlement checks, private asset delivery, admin operations, and reader-shell hardening. | Local hardening |
@@ -36,6 +37,7 @@ Building structured, commercially credible product foundations for legal workflo
 | --- | --- |
 | Dashboards | Clear information hierarchy, filters, status indicators, analytics, detail views, and professional responsive layouts. |
 | Legal-tech | Security-aware workflows, document state, auditability, validation steps, role boundaries, and operational clarity. |
+| Mobile finance | Offline-first data flow, private local storage, recurring money workflows, and compact dashboard UX. |
 | AI tooling | Human-in-the-loop controls, reusable prompt/data structures, deterministic utilities, and transparent output states. |
 | MVP hardening | README quality, validation notes, known limitations, dependency review, and roadmap from scaffold to production. |
 
@@ -51,7 +53,7 @@ Building structured, commercially credible product foundations for legal workflo
 
 | Layer | Tools |
 | --- | --- |
-| Frontend | React, Next.js, Vite, TypeScript |
+| Frontend & Mobile | React, Next.js, Vite, TypeScript, Kotlin, Jetpack Compose |
 | Styling | Tailwind CSS, responsive dashboard systems |
 | State & UX | Zustand, Framer Motion, Recharts, modular component patterns |
 | Data & Backend Ready | Prisma, API-ready domain boundaries, validation-first flows |
